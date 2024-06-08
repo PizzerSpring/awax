@@ -42,7 +42,8 @@ body {
 .menu__list {
     display: flex;
     justify-content: space-between;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
+    gap: 18px;
 }
 
 .menu__item {
@@ -50,8 +51,6 @@ body {
 }
 
 .menu__link {
-    display: inline-block;
-    padding-left: 18px;
     color: #ffffff;
     text-transform: uppercase;
 }
@@ -61,5 +60,18 @@ body {
     text-underline-offset: 53px;
     text-decoration-thickness: 2px;
     text-decoration-color: #b88b58;
+}
+
+/*......................................top.................................*/
+
+.swiper-pagination .swiper-pagination-bullet {
+    background: transparent;
+    border: 1px solid #b88b58;
+    color: #b88b58;
+    opacity: 1;
+}
+
+.swiper-pagination .swiper-pagination-bullet-active {
+    background: #b88b58;
 }
 
