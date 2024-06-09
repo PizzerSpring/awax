@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a0cce9f-44c9-4496-bcb4-b712957db1f9" name="Changes" comment="adding of hover for menu header">
-      <change afterPath="$PROJECT_DIR$/images/bgimg.jpg" afterDir="false" />
+    <list default="true" id="4a0cce9f-44c9-4496-bcb4-b712957db1f9" name="Changes" comment="adding of slider pagination">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +47,14 @@
       <updated>1715604988266</updated>
       <workItem from="1715604989475" duration="6761000" />
       <workItem from="1715701701252" duration="207000" />
-      <workItem from="1717862002020" duration="3232000" />
+      <workItem from="1717862002020" duration="3569000" />
+      <workItem from="1717865645331" duration="145000" />
+      <workItem from="1717912205744" duration="283000" />
+      <workItem from="1717912529073" duration="298000" />
+      <workItem from="1717912896734" duration="84000" />
+      <workItem from="1717913057790" duration="333000" />
+      <workItem from="1717913479478" duration="1826000" />
+      <workItem from="1717915398865" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="starting of project">
       <created>1715605393507</created>
@@ -79,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715612896790</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding of slider pagination">
+      <created>1717865521956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717865521956</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +112,7 @@
     <MESSAGE value="starting of project" />
     <MESSAGE value="adding of header" />
     <MESSAGE value="adding of hover for menu header" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding of hover for menu header" />
+    <MESSAGE value="adding of slider pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding of slider pagination" />
   </component>
 </project>
